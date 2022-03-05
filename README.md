@@ -1,4 +1,4 @@
-<br> 1.	Write a program to find the distance between two points
+6<br> 1.	Write a program to find the distance between two points
 		<br> void input(float \*x1, float \*y1, float \*x2, float \*y2);
 		<br> void find_distance(float x1, float y1, float x2, float y2, float *distance);
 		<br> void output(float x1, float y1,float x2, float y2, float distance);
